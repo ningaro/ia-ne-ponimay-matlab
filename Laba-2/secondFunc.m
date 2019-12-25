@@ -55,4 +55,4 @@ B1 = rand(3, 5);
 without = B1\C
 %ex. 9
 disp('ex. 9');
-magic = A'
+magic = A' 
